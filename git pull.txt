@@ -1,0 +1,8 @@
+git pull
+git branch
+git checkout -b feature/whale-alert main
+
+windows
+python3 -m venv .venv
+.venv\Scripts\activate
+
